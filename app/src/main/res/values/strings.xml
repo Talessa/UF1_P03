@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">UF1_P03</string>
+    <string name="app_name">Mi primera aplicacion</string>
+    <string name="edit_person_name">Inserta tu nombre</string>
+    <string name="button_send_person_name">Enviar</string>
 </resources>
